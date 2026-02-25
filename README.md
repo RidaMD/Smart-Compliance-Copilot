@@ -154,4 +154,13 @@ Generates structured PDF compliance report.
 - Authentication & user accounts  
 - Cloud deployment (Docker + AWS EC2)  
 - ML-based risk scoring instead of keyword-based rules  
-- Multi-language document support  
+- Multi-language document support
+
+---
+
+## Contributors
+
+- [Rida Mohammad](https://github.com/RidaMD) – Backend Development, AWS Integration, Risk Engine  
+- [Veda Sree](https://github.com/manasvinipisupati) – Frontend / AI Integration  
+- [Manasvini Pisupati](https://github.com/vedasree180) – Research / Testing  
+
