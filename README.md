@@ -161,6 +161,6 @@ Generates structured PDF compliance report.
 ## Contributors
 
 - [Rida Mohammad](https://github.com/RidaMD) – Backend Development, AWS Integration, Risk Engine  
-- [Veda Sree](https://github.com/manasvinipisupati) – Frontend / AI Integration  
-- [Manasvini Pisupati](https://github.com/vedasree180) – Research / Testing  
+- [Manasvini Pisupati](https://github.com/manasvinipisupati) – Frontend / AI Integration  
+- [Veda Sree](https://github.com/vedasree180) – Research / Testing  
 
